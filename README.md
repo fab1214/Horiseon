@@ -1,14 +1,14 @@
 # Challenge-1
 
-##Purpose
+## Purpose
 Modified starter code for Marketing agency Horiseon to meet accessibility standards. Code was also restructured for better page organization and long term sustainability. Refactored code has met the Acceptance Criteria provided.
 
-##Built With
+## Built With
 *HTML
 *CSS
 
-##Website
+## Website
 
 
-##Contribution
+## Contribution
 Code refactored by Fabricio Bustamante
